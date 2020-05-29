@@ -1,0 +1,13 @@
+C:\Users\Dark_Cheedar\Desktop\HerancaPOO\bin\Debug\netcoreapp3.1\HerancaPOO.exe
+C:\Users\Dark_Cheedar\Desktop\HerancaPOO\bin\Debug\netcoreapp3.1\HerancaPOO.deps.json
+C:\Users\Dark_Cheedar\Desktop\HerancaPOO\bin\Debug\netcoreapp3.1\HerancaPOO.runtimeconfig.json
+C:\Users\Dark_Cheedar\Desktop\HerancaPOO\bin\Debug\netcoreapp3.1\HerancaPOO.runtimeconfig.dev.json
+C:\Users\Dark_Cheedar\Desktop\HerancaPOO\bin\Debug\netcoreapp3.1\HerancaPOO.dll
+C:\Users\Dark_Cheedar\Desktop\HerancaPOO\bin\Debug\netcoreapp3.1\HerancaPOO.pdb
+C:\Users\Dark_Cheedar\Desktop\HerancaPOO\obj\Debug\netcoreapp3.1\HerancaPOO.csprojAssemblyReference.cache
+C:\Users\Dark_Cheedar\Desktop\HerancaPOO\obj\Debug\netcoreapp3.1\HerancaPOO.AssemblyInfoInputs.cache
+C:\Users\Dark_Cheedar\Desktop\HerancaPOO\obj\Debug\netcoreapp3.1\HerancaPOO.AssemblyInfo.cs
+C:\Users\Dark_Cheedar\Desktop\HerancaPOO\obj\Debug\netcoreapp3.1\HerancaPOO.csproj.CoreCompileInputs.cache
+C:\Users\Dark_Cheedar\Desktop\HerancaPOO\obj\Debug\netcoreapp3.1\HerancaPOO.dll
+C:\Users\Dark_Cheedar\Desktop\HerancaPOO\obj\Debug\netcoreapp3.1\HerancaPOO.pdb
+C:\Users\Dark_Cheedar\Desktop\HerancaPOO\obj\Debug\netcoreapp3.1\HerancaPOO.genruntimeconfig.cache
